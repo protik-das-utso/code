@@ -1,0 +1,11 @@
+male muslim alive Deen-of-FSIT-in-DIU Bangladeshi stop
+female cristian dead model Italian stop
+male muslim alive Head-of-CSE-in-DIU Bangladeshi stop
+male muslim alive Chairman-of-DIU Bangladeshi stop
+male cristian alive Football-Player Portuguese stop
+male cristian alive Football-Player Argentine stop
+male muslim alive Cricket-Player Bangladeshi stop
+female muslim alive Prime-Minister-of-Bangladesh Bangladeshi stop
+male muslim dead father-of-nation Bangladeshi stop
+male hindu dead father-of-nation Indian stop
+female cristian alive Writter British stop
